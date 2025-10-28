@@ -1,27 +1,27 @@
-<h1 align="center">👩‍⚕️💻 Salut, je suis <span style="color:#00bfff;">Arièle</span></h1>
+<h1 align="center"> Salut, je suis <span style="color:#00bfff;">Arièle</span></h1>
 <h3 align="center">Relier la <span style="color:#00bfff;">médecine</span> et la <span style="color:#00bfff;">technologie</span> — bâtir l’avenir de la santé numérique</h3>
 
 ---
 
-### 🌟 À propos de moi  
-🎓 Étudiante en **Mastère Développement Logiciel**  
-💉 Ancienne étudiante en **Médecine Humaine**, passionnée par la santé et l’innovation technologique  
-🧠 Je crois en une technologie humaine : *celle qui soigne, connecte et améliore la vie*  
+### À propos de moi  
+- Étudiante en **Mastère Développement Logiciel**  
+- Ancienne étudiante en **Médecine Humaine**, passionnée par la santé et l’innovation technologique  
+- Je crois en une technologie humaine : *celle qui soigne, connecte et améliore la vie*  
 
-💡 **Mission personnelle :** Créer des solutions logicielles intelligentes pour améliorer la gestion, la communication et le suivi médical dans les établissements de santé.  
-
----
-
-### 🔬 Domaines d’intérêt  
-- 💻 Informatique médicale & e-santé  
-- 🧩 Développement web et mobile  
-- 🤖 Intelligence artificielle appliquée à la santé  
-- 🗃️ Sécurité & gestion des bases de données  
-- 🏗️ Architecture logicielle et conception d’applications  
+**Mission personnelle :** Créer des solutions logicielles intelligentes pour améliorer la gestion, la communication et le suivi médical dans les établissements de santé.  
 
 ---
 
-### 🧰 Langages & Outils  
+### Domaines d’intérêt  
+- Informatique médicale & e-santé  
+- Développement web et mobile  
+- Intelligence artificielle appliquée à la santé  
+- Sécurité & gestion des bases de données  
+- Architecture logicielle et conception d’applications  
+
+---
+
+### Langages & Outils  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -37,10 +37,10 @@
 
 ---
 
-### 🩺 Ce que je recherche  
-🚀 Collaborer sur des **projets d’innovation médicale**  
-🤝 Participer à la **digitalisation du secteur de la santé**  
-💬 Travailler sur des **solutions d’IA et d’automatisation médicale**
+### Ce que je recherche  
+- Collaborer sur des **projets d’innovation médicale**  
+- Participer à la **digitalisation du secteur de la santé**  
+- Travailler sur des **solutions d’IA et d’automatisation médicale**
 
 ---
 
