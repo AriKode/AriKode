@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="center">✨ “La science sogne le corps, la technologie soigne le monde.” ✨</h3>
+<h3 align="center">✨ “La science soigne le corps, la technologie soigne le monde.” ✨</h3>
 
 
 <h3 align="left">Connect with me:</h3>
