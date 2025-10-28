@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arièle</h1>
 <h3 align="center">🔬💻 Bridging Medicine & Tech | Future Medical IT Specialist</h3>
 
-- 🔭 I’m currently working on **Missié Moustass**
-
-- 🌱 I’m currently learning **Java, MySQL, Développement Web, Réseaux**
-
+- 🎓 Étudiante en **Master Développement Logiciel**
+- 🔭 Mon objectif : créer des outils innovants capables d’améliorer la gestion, la communication et le suivi dans les structures médicales
+- 🧠 Domaines d’intérêt
+- Informatique médicale & e-santé  
+- Développement web et mobile  
+- Intelligence artificielle appliquée à la santé  
+- Sécurité et gestion de bases de données  
+- Architecture logicielle  
+🧰 Langages et outils
+`Java` | `MySQL` | `HTML` | `CSS` | `JavaScript` | `Flutter` | `Node.js` | `PHP` | `Git/GitHub` | `Docker`  
+- 🌱 “Je crois en une technologie humaine, celle qui soigne, connecte et améliore la vie.”
 - 👯 I’m looking to collaborate on **Medical IT Solutions**
 
 <h3 align="left">Connect with me:</h3>
