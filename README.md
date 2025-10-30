@@ -1,5 +1,5 @@
-<h1 align="center"> Salut, je suis <span style="color:#00bfff;">Arièle</span></h1>
-<h3 align="center">Relier la <span style="color:#00bfff;">médecine</span> et la <span style="color:#00bfff;">technologie</span> — bâtir l’avenir de la santé numérique</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Arièle</span></h1>
+<h3 align="center">💻 Bridging <span style="color:#00bfff;">Medicine</span> and <span style="color:#00bfff;">Technology</span> | Future Medical IT Specialist</h3>
 
 ---
 
