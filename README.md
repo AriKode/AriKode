@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arièle RATSIMBAZAFY</h1>
 
 <h3 align="center">
-  💻 Software Development • 🏥 Digital Health • 🤖 Artificial Intelligence
+  Software Development • Digital Health • Artificial Intelligence
 </h3>
 
 <p align="center">
@@ -17,14 +17,14 @@
 
 ---
 
-## 👩🏽‍💻 À propos de moi
+##  À propos de moi
 
-🎓 Étudiante en **Mastère Développement Solution Logiciel** à Montpellier.
+ Étudiante en **Mastère Développement Solution Logiciel** à Montpellier.
 
-🩺 Issue d'un parcours en **médecine humaine**, je me suis réorientée vers
+ Issue d'un parcours en **médecine humaine**, je me suis réorientée vers
 l'informatique avec l'objectif de mettre la technologie au service de la santé.
 
-💡 Mon profil se situe aujourd'hui à l'intersection de plusieurs domaines :
+ Mon profil se situe aujourd'hui à l'intersection de plusieurs domaines :
 
 **Développement logiciel • Santé numérique • IA • Analyse fonctionnelle • Data**
 
@@ -37,7 +37,7 @@ des patients.
 
 ---
 
-## 🏥 Projet Santé Numérique — NovaCare
+##  Projet Santé Numérique — NovaCare
 
 ### NovaCare — Système de Gestion Médicale Zero-Trust
 
@@ -47,41 +47,41 @@ des flux de consultation et de triage.
 
 ### Fonctionnalités principales
 
-- 🔐 Architecture **Zero-Trust**
-- 👥 Gestion des accès **RBAC — 5 rôles**
-- 🔒 Chiffrement **AES-256** des données médicales sensibles
-- 📝 Audit Logs et traçabilité des accès
-- 🔑 Authentification **JWT Dual-Token**
-- ⚡ Redis pour la gestion des Refresh Tokens
-- 🩺 Workflow de triage et file d'attente médicale
-- 🐳 Architecture multi-services avec Docker
+-  Architecture **Zero-Trust**
+-  Gestion des accès **RBAC — 5 rôles**
+-  Chiffrement **AES-256** des données médicales sensibles
+-  Audit Logs et traçabilité des accès
+-  Authentification **JWT Dual-Token**
+-  Redis pour la gestion des Refresh Tokens
+-  Workflow de triage et file d'attente médicale
+-  Architecture multi-services avec Docker
 
 ### Stack
 
 `React` `TypeScript` `Node.js` `Express` `Prisma`
 `PostgreSQL` `Redis` `Docker` `JWT` `AES-256`
 
-👉 **Repository :**
+ **Repository :**
 https://github.com/AriKode/NOVA-CARE
 
 ---
 
-## 🤖 Projet Fullstack & IA — CVApp
+##  Projet Fullstack & IA — CVApp
 
 ### Plateforme IA de recrutement & optimisation de CV
 
 Application Fullstack combinant plusieurs fonctionnalités liées au
 recrutement et à l'intelligence artificielle :
 
-- 💬 Chat conversationnel avec IA
-- 📄 Génération de CV
-- 🔎 Analyse et évaluation de CV
-- 🔄 Adaptation d'un CV à une offre d'emploi
-- 🧠 Génération de quiz
-- 💼 Gestion des offres et candidatures
-- 🔌 Intégration d'un LLM via API
-- 🐳 Dockerisation
-- ⚙️ Pipeline CI/CD
+-  Chat conversationnel avec IA
+-  Génération de CV
+-  Analyse et évaluation de CV
+-  Adaptation d'un CV à une offre d'emploi
+-  Génération de quiz
+-  Gestion des offres et candidatures
+-  Intégration d'un LLM via API
+-  Dockerisation
+-  Pipeline CI/CD
 
 ### Stack
 
@@ -90,20 +90,20 @@ recrutement et à l'intelligence artificielle :
 
 ---
 
-## 🧠 Domaines d'intérêt
+##  Domaines d'intérêt
 
-- 🏥 Santé numérique & informatique médicale
-- 💻 Software Engineering
-- 🤖 Intelligence artificielle appliquée aux métiers
-- 🔐 Sécurité et confidentialité des données
-- 🗄️ Bases de données
-- 🏗️ Architecture logicielle
-- 📊 Analyse fonctionnelle
-- ☁️ Cloud & CI/CD
+-  Santé numérique & informatique médicale
+-  Software Engineering
+-  Intelligence artificielle appliquée aux métiers
+-  Sécurité et confidentialité des données
+-  Bases de données
+-  Architecture logicielle
+-  Analyse fonctionnelle
+-  Cloud & CI/CD
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Frontend
 
@@ -141,7 +141,7 @@ recrutement et à l'intelligence artificielle :
 
 ---
 
-## 🎯 Ce que je recherche
+##  Ce que je recherche
 
 Je recherche une **alternance** me permettant de contribuer à des projets
 associant développement logiciel, intelligence artificielle et transformation
@@ -157,7 +157,7 @@ Je souhaite notamment travailler sur :
 
 ---
 
-## 🤝 Me contacter
+## Me contacter
 
 <p align="center">
 
@@ -176,11 +176,6 @@ Je souhaite notamment travailler sur :
 </p>
 
 ---
-
-<h3 align="center">
-  🩺 Medicine × 💻 Technology × 🤖 AI
-</h3>
-
 <p align="center">
   Building technology with a human purpose.
 </p>
