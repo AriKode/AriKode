@@ -13,9 +13,6 @@
   <a href="https://portfolio-rust-gamma-29.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-0F766E?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/ari%C3%A8le-ratsimbazafy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arièle_Ratsimbazafy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
@@ -157,15 +154,6 @@ Je souhaite notamment travailler sur :
 - des applications Fullstack modernes ;
 - l'intégration de l'IA dans des cas d'usage concrets ;
 - la sécurité et la gestion des données sensibles.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriKode&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriKode&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
