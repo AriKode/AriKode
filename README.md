@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arièle RATSIMBAZAFY</h1>
 
 <h3 align="center">
-  Software Development • Digital Health • Artificial Intelligence
+  Software Development - Digital Health - Artificial Intelligence
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ l'informatique avec l'objectif de mettre la technologie au service de la santé.
 
  Mon profil se situe aujourd'hui à l'intersection de plusieurs domaines :
 
-**Développement logiciel • Santé numérique • IA • Analyse fonctionnelle • Data**
+**Développement logiciel - Santé numérique - IA - Analyse fonctionnelle - Data**
 
 Je m'intéresse particulièrement à la conception de solutions capables
 d'améliorer le travail des professionnels de santé et la prise en charge
@@ -37,9 +37,9 @@ des patients.
 
 ---
 
-##  Projet Santé Numérique — NovaCare
+##  Projet Santé Numérique - NovaCare
 
-### NovaCare — Système de Gestion Médicale Zero-Trust
+### NovaCare - Système de Gestion Médicale Zero-Trust
 
 Plateforme de gestion médicale hospitalière conçue autour de la
 **confidentialité des données patients**, de la sécurité et de la gestion
@@ -48,7 +48,7 @@ des flux de consultation et de triage.
 ### Fonctionnalités principales
 
 -  Architecture **Zero-Trust**
--  Gestion des accès **RBAC — 5 rôles**
+-  Gestion des accès **RBAC - 5 rôles**
 -  Chiffrement **AES-256** des données médicales sensibles
 -  Audit Logs et traçabilité des accès
 -  Authentification **JWT Dual-Token**
@@ -66,7 +66,7 @@ https://github.com/AriKode/NOVA-CARE
 
 ---
 
-##  Projet Fullstack & IA — CVApp
+##  Projet Fullstack & IA - CVApp
 
 ### Plateforme IA de recrutement & optimisation de CV
 
